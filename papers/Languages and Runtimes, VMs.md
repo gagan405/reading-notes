@@ -1,7 +1,7 @@
 ## Memory Management
-**Date**: 30/12/2025. 
-**Title**: **Mesh: compacting memory management for C/C++ applications**. 
-**Link**: https://dl.acm.org/doi/10.1145/3314221.3314582. 
+**Date**: 30/12/2025.  
+**Title**: **Mesh: compacting memory management for C/C++ applications**.  
+**Link**: https://dl.acm.org/doi/10.1145/3314221.3314582.  
 
 Notes:
 
