@@ -1,3 +1,4 @@
+#database #transaction
 ### Date 03/07/2026
 #### Transaction Models till 4.5
 Gives a theoretical treatment on modeling the transaction as a state machine. Transactions when started, dont start again. End states: Abort/Committed. In practice, Aborted could also be user driven or system driven.
